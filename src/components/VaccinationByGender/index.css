@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.vaccineGender-container {
+  background-color: #1c1c2b;
+  padding: 20px;
+  width: 100%;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.chart-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
